@@ -1,0 +1,17 @@
+[
+  "test/users/tests/test_admin.py::TestMyUserCreationForm::test_clean_username_false",
+  "test/users/tests/test_admin.py::TestMyUserCreationForm::test_clean_username_success",
+  "test/users/tests/test_models.py::TestUser::test__str__",
+  "test/users/tests/test_models.py::TestUser::test_get_absolute_url",
+  "test/users/tests/test_urls.py::TestUserURLs::test_detail_resolve",
+  "test/users/tests/test_urls.py::TestUserURLs::test_detail_reverse",
+  "test/users/tests/test_urls.py::TestUserURLs::test_list_resolve",
+  "test/users/tests/test_urls.py::TestUserURLs::test_list_reverse",
+  "test/users/tests/test_urls.py::TestUserURLs::test_redirect_resolve",
+  "test/users/tests/test_urls.py::TestUserURLs::test_redirect_reverse",
+  "test/users/tests/test_urls.py::TestUserURLs::test_update_resolve",
+  "test/users/tests/test_urls.py::TestUserURLs::test_update_reverse",
+  "test/users/tests/test_views.py::TestUserRedirectView::test_get_redirect_url",
+  "test/users/tests/test_views.py::TestUserUpdateView::test_get_object",
+  "test/users/tests/test_views.py::TestUserUpdateView::test_get_success_url"
+]
